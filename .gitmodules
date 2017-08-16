@@ -1,0 +1,3 @@
+[submodule "NF_Hello"]
+	path = NF_Hello
+	url = https://github.com/KevinSayers/NF_Hello.git
